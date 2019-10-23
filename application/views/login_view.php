@@ -28,7 +28,7 @@
 <body class="login-page">
     <div class="login-box">
         <div class="logo">
-            <a href="javascript:void(0);">Payment Point Online Bank</a>
+            <a href="javascript:void(0);">Payment Point Online Bank Telkom School</a>
            
         </div>
         <div class="card">

@@ -280,8 +280,8 @@
                 <img src="<?=base_url()?>assets/images/user.png" width="48" height="48" alt="User" />
                 </div>
                 <div class="info-container">
-                    <div class="name" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Risma</div>
-                    <div class="email">admin</div>
+                    <div class="name" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Annisa Rizky Ramdhani</div>
+                    <div class="email">annisarizkyr28@gmail.com</div>
                     <div class="btn-group user-helper-dropdown">
                         <i class="material-icons" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">keyboard_arrow_down</i>
                         <ul class="dropdown-menu pull-right">
@@ -291,7 +291,7 @@
                             <li><a href="javascript:void(0);"><i class="material-icons">shopping_cart</i>Sales</a></li>
                             <li><a href="javascript:void(0);"><i class="material-icons">favorite</i>Likes</a></li>
                             <li role="seperator" class="divider"></li>
-                            <li><a href="javascript:void(0);"><i class="material-icons">input</i>Sign Out</a></li>
+                            <li><a href="javascript:void(0);"><i class="material-icons">input</i>Logout</a></li>
                         </ul>
                     </div>
                 </div>
@@ -793,7 +793,7 @@
         <!-- #END# Right Sidebar -->
     </section>
 
-    
+
 
     <!-- Jquery Core Js -->
     <script src="<?=base_url()?>assets/plugins/jquery/jquery.min.js"></script>
